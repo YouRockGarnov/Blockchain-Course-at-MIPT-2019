@@ -1,17 +1,15 @@
 {
-  "name": "untitled",
+  "name": "blockchain_seminar",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "transactionBuilder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "crypto": "^1.0.1",
-    "crypto-js": "^3.1.9-1",
-    "discovery-swarm": "^6.0.0"
+    "crypto-js": "^3.1.9-1"
   }
 }
